@@ -31,5 +31,5 @@ This is a recipe for PMWiki that outputs a page to PDF.
 
     http://example.org/?action=pdf
 
-Based on [GeneratePDF](http://www.pmwiki.org/wiki/Cookbook/GeneratePDF)
+####Based on [GeneratePDF](http://www.pmwiki.org/wiki/Cookbook/GeneratePDF)
 
