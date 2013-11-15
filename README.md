@@ -13,12 +13,12 @@ This is a recipe for PMWiki that outputs a page to PDF.
 ### Use Composer to install dependencies
 #### Option 1: Composer is not installed globally
 
-    cd laravel
+    cd pmwikitopdf
     curl -s http://getcomposer.org/installer | php
     php composer.phar install
 #### Option 2: Composer is installed globally
 
-    cd laravel
+    cd pmwikitopdf
     composer install
 
 ### Add Parameters to local/config.php
