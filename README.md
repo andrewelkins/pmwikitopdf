@@ -9,7 +9,7 @@ This is a recipe for PMWiki that outputs a page to PDF.
 
         git clone git://github.com/andrew13/pmwikitopdf.git pmwikitopdf
 
-## Step 2: Use Composer to install dependencies
+## Use Composer to install dependencies
 ### Option 1: Composer is not installed globally
 
     cd laravel
