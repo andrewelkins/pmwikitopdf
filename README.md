@@ -3,7 +3,8 @@
 This is a recipe for PMWiki that outputs a page to PDF.
 
 ###Navigate to the cookbook directory
-        cd /path/to/pmwiki/cookbook
+
+    cd /path/to/pmwiki/cookbook
 
 ###Checkout PMWikiToPdf
 
